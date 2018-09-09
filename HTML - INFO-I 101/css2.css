@@ -1,0 +1,96 @@
+body {
+	background: turquoise;
+}
+
+.riddle {
+	border-style: double;
+	border-width: 2px;
+	border-color: green;
+	padding-right: 7px;
+	padding-left: 7px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	background-image: url('images/desert.jpg');
+}
+
+.dumbledore {
+	border-style: dashed;
+	border-width: 7px;
+	border-color: purple;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 3px;
+	background-image: url('images/smiley.gif');
+}
+.one1 {
+	background-color: red;
+	color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: yellow;
+	padding-left: 13px;
+	padding-right: 5px;
+	padding-top: 6px;
+	margin-bottom: 2px;
+	font-family: Comic Sans MS;
+}
+
+.two2 {
+	background-color: blue;
+	color: yellow;
+	border-style: solid;
+	border-width: 3px;
+	border-color: purple;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-top: 7px;
+	margin-left: 2px;
+	font-family: Helvetica;
+}
+
+.three3 {
+	background-color: blue;
+	color: yellow;
+	border-style: dashed;
+	border-width: 4px;
+	border-color: green;
+	padding-left: 5px;
+	padding-top: 2px;
+	font-family: Times New Roman;
+	margin-right: 2px;
+	background-image: url('images/sky.jpg');
+}
+
+.four4 {
+	background-color: blue;
+	color: green;
+	border-style: dashed;
+	border-width: 2px;
+	border-color: red;
+	padding-left: 5px;
+	padding-right: 2px;
+	padding-top: 7px;
+	font-family: Comic Sans MS;
+	margin-bottom: 1px;
+	background-image: url('images/white.jpg');
+}
+
+div.container {
+	border: 1px solid blue; 
+}
+div.row {
+	border: 1px solid red;  
+}
+div.column {
+	border: 1px solid green;  
+}
+
+.css {
+	color: blue;
+	font-family: helvetica;
+}
+
+.html {
+	color: red;
+	font-family: times new roman;
+}

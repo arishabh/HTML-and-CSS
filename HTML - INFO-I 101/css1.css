@@ -1,0 +1,72 @@
+body{
+	background: steelblue;
+}
+
+table{
+	border-width: thick;
+	border-color: black;
+	border-style: solid;
+}
+.Row {
+	background: gray;
+	width: 800px;
+	font: arial;
+}
+
+th, td {
+   border: 1px solid black;
+}
+table {
+    width: 60%;
+}
+
+th {
+    height: 50px;
+}
+.colrow13 {
+	color: blue;
+}
+
+.colrow23 {
+	color: maroon;
+	background: red;
+}
+
+.colrow33 {
+	color: red;
+}
+
+.colrow43 {
+	color: green;
+}
+
+.colrow53 {
+	color: black;
+}
+
+.colrow63 {
+	color: white;
+}
+
+.colrow73 {
+	color: orange;
+}
+
+.red {
+	background: red;
+}
+
+a:link{
+	color: black;
+}
+
+a:visited {
+	color: moroon;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active{
+}

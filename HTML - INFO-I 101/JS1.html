@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<title></title>
+		<script>
+		function contentchanges(){
+			document.getElementById("script1").innerHTML = "Booomm! It gone! (Refresh please)";
+		}
+		function stylechanging(){
+			var x = document.getElementById("style1");
+			x.style.fontSize = "50px";
+			x.style.color = "green";
+		}	
+		</script>
+	</head>
+	<body>
+	<h2>JavaScript Homework</h2>
+	<hr>
+	<h2>Function Change 1</h2>
+	<p id="script1">Today we learnt about JavaScript and the basics of how to make a button and how to make how to change your text
+	and the style of the text when we click on the button.</p>
+	<button type="button" onclick="contentchanges()">Bop it</button>
+	<hr>
+	<h2>Style Change 2</h2>
+	<p id="style1">It was really interesting because this was my first class ever for JavaScript and it realy fascinates me.</p>
+	<button type="button" onclick="stylechanging()">Twist it</button>
+	<hr>
+	</body>
+</html>
